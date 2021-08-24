@@ -27,7 +27,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 #### LINK: http://localhost:8080/
 
 Build a responsive page based on the designs.
+
 Fully Matched design to exercise1-desktop/exercise1-mobile
+
 Full Responsive and using the Code Guidelines.
 
 ## Exercise 2
@@ -35,11 +37,15 @@ Full Responsive and using the Code Guidelines.
 #### LINK: http://localhost:8080/ex2
 
 Read the `data.json` file and display the data as tabs on desktop and an accordion on mobile.
+
 File read and displayed as tabs/accordion using VueJS. with logic applied reactively.
 
 - Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
+
   Explaination inside exercise-2 page.
 
 ## Submission
 
-We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
+Code Made with VueJS Framework: https://vuejs.org/
+
+Frontend Framework is Bootstrap v5: https://getbootstrap.com/
