@@ -1,40 +1,45 @@
-Introduction
----
-Thanks for taking the time to complete this frontend technical assessment. We will be focusing on software quality (scalability, readability, maintainability, etc.) and your eye for detail. You may include any libraries, but Vue.js is preferred and jQuery is not recommended. Along with following best practices, bonus points for following our [coding guidelines](https://github.com/mindarc/frontend-assessment/wiki/Coding-guidelines). 
+# Mark Dylan Cosca - Frontend Assestment
 
-Exercise 1
----
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Exercise 1
+
+#### LINK: http://localhost:8080/
+
 Build a responsive page based on the designs.
+Fully Matched design to exercise1-desktop/exercise1-mobile
+Full Responsive and using the Code Guidelines.
 
-##### Requirements
-1. Match the designs exactly.
-2. Needs to be responsive.
+## Exercise 2
 
-##### Designs
-* exercise1-desktop.png
-* exercise1-mobile.png
+#### LINK: http://localhost:8080/ex2
 
-##### Assets
-* Desktop banner - http://via.placeholder.com/1920x650
-* Mobile banner - http://via.placeholder.com/600x600
-* Content images - http://via.placeholder.com/400x300
-
-Exercise 2
----
 Read the `data.json` file and display the data as tabs on desktop and an accordion on mobile.
+File read and displayed as tabs/accordion using VueJS. with logic applied reactively.
 
-##### Requirements
-1. Display data in tabs on desktop.
-2. Display data in an accordion on mobile.
-3. Only 1 accordion/tab should be open at a time.
-4. Open the first accordion/tab on load.
-5. If the open accordion is selected, close it.
+- Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
+  Explaination inside exercise-2 page.
 
-###### Bonus points
-* Improve the user experience with meaningful animations/transitions.
-* Design and styling.
-* Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
+## Submission
 
-Submission
----
 We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
